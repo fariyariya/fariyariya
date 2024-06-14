@@ -13,6 +13,7 @@
 ###
 
 <p align="left">Software Quality Assurance (SQA) ensures that software meets the required standards and works as expected. As a new learner, I'll focus on identifying bugs, testing software, and improving product quality. My goal is to make sure software is reliable, efficient, and user-friendly.
+  
 ###
 
 <h2 align="left">I code with</h2>
