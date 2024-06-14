@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Rita Fariya Riya and I'm a learing SQA(Software Quality Assurance)./p>
+<p align="left">My name is Rita Fariya Riya and I'm a learing SQA(Software Quality Assurance). </p>
 
 ###
 
